@@ -1,4 +1,4 @@
 getcha
 ======
 
-REST API with simple get and push retreive images from S3
+REST API with simple get and push for handling images in S3
